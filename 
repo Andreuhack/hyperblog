@@ -1,0 +1,55 @@
+[33mcommit eb60c89f6440839586d6d08028a7e3d840fa6adf[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Juan Almonte <andreu.musical@gmail.com>
+Date:   Sat Jan 8 18:10:35 2022 -0500
+
+    Commit al master del blogpost en su version mas reciente
+
+ Blogpost.html   | 10 [32m+++++++[m[31m---[m
+ Css/Estilos.css | 19 [32m++++++++++++++++++[m[31m-[m
+ 2 files changed, 25 insertions(+), 4 deletions(-)
+
+[33mcommit 43a90926907d2992a8fe4a7231e8bdb57e34f5d8[m
+Author: Juan Almonte <andreu.musical@gmail.com>
+Date:   Thu Jan 6 12:41:15 2022 -0500
+
+    reemplazo de la historia
+
+ historia.txt | 6 [32m++[m[31m----[m
+ 1 file changed, 2 insertions(+), 4 deletions(-)
+
+[33mcommit f2121d79d16a37d5faacdf049ac9ed0e5b4e74ee[m
+Author: Juan Almonte <andreu.musical@gmail.com>
+Date:   Thu Jan 6 12:35:29 2022 -0500
+
+    arranco mi proyecto
+
+ Blogpost.html   | 10 [32m++++++++++[m
+ Css/Estilos.css |  6 [32m++++++[m
+ 2 files changed, 16 insertions(+)
+
+[33mcommit 57b869e03567ee6a26c29585c3ec4fd272aaa726[m
+Author: Juan Almonte <andreu.musical@gmail.com>
+Date:   Thu Jan 6 11:58:51 2022 -0500
+
+            Agregamos un cambio a la estatura
+
+ historia.txt | 4 [32m+++[m[31m-[m
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+[33mcommit 6878054adcdcc2962bad35d93c06b2b19c7d8f67[m
+Author: Juan Almonte <andreu.musical@gmail.com>
+Date:   Thu Jan 6 11:49:09 2022 -0500
+
+    cambios en el archivo
+
+ historia.txt | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit 585135a95931d4b4596ae915fb8f92b862a39b76[m
+Author: Juan Almonte <andreu.musical@gmail.com>
+Date:   Thu Jan 6 11:44:36 2022 -0500
+
+    Este es el primer commit de este archivo
+
+ historia.txt | 5 [32m+++++[m
+ 1 file changed, 5 insertions(+)
